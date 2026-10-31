@@ -26,7 +26,7 @@ The dataset includes:
 - **Matplotlib:** Data visualization and plotting
 
 ## Requirements
-- Python 3.x
+- Python 3.8+ (3.10 recommended)
 - Jupyter Notebook or Google Colab
 
 ## Project Workflow
