@@ -111,7 +111,3 @@ These include:
 This project demonstrates the application of traditional machine learning algorithms to cardiovascular risk prediction using demographic, dietary, and lifestyle-related factors.
 
 Among the three models, Logistic Regression achieved the best overall performance, followed by Decision Tree and Random Forest. The project also highlights the importance of data preprocessing, feature selection, cross-validation, and hyperparameter tuning in developing effective classification models.
-
-**Group:** G24
-
-**Project Date:** June 2024
