@@ -29,6 +29,27 @@ The dataset includes:
 - Python 3.8+ (3.10 recommended)
 - Jupyter Notebook or Google Colab
 
+## Setup and Installation
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/Huisss89/Cardiovascular-Risk-Prediction/>
+   cd <https://github.com/Huisss89/Cardiovascular-Risk-Prediction/>
+   ```
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install numpy pandas scikit-learn matplotlib seaborn jupyter
+   ```
+4. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+5. Open `SourceCode.ipynb` and run all cells.
+
 ## Project Workflow
 ### 1. Data Exploration and Visualization
 - Explore dataset dimensions, data types, and statistical summaries.
